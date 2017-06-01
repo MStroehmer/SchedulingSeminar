@@ -1,2 +1,0 @@
-# SchedulingSeminar
-Scheduling Seminar
