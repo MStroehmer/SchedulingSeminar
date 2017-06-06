@@ -1,0 +1,13 @@
+Type,location,nr_people,lat,long
+Stop,Augsburg,3.0,48.3668041,10.8986971
+Stop,Bad Soden-Salmünster,1.0,50.2801792,9.3704249
+Stop,Bayreuth,6.0,49.9427202,11.5763079
+Stop,Berlin,1.0,52.5170365,13.3888599
+Stop,Deggendorf,5.0,48.8333535,12.96205
+Stop,Duisburg,8.0,51.434999,6.759562
+Stop,Erfurt,3.0,50.9777974,11.0287364
+Stop,Hamburg,5.0,53.550341,10.000654
+Stop,Heidenheim,6.0,48.6767637,10.152923
+Stop,Regensburg,4.0,49.0195333,12.0974869
+Stop,Stuttgart,4.0,48.7784485,9.1800132
+Sink,Reimboldshäuser Straße 1 36275 Kirchheim,,50.8180719,9.5229998
